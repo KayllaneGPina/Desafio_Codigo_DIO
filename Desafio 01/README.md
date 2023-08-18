@@ -5,10 +5,15 @@ Para esse desafio, considere que você foi contratado por uma empresa bancária 
 
 ## Entrada
 *saldoAtual:* um número decimal representando o saldo atual da conta bancária.
+
 *valorDeposito:* um número decimal representando o valor a ser depositado na conta.
+
 *valorRetirada:* um número decimal representando o valor a ser retirado da conta.
 
+---
 *Regra de Formatação:* Considere apenas *uma casa decimal* para esse desafio.
+
+---
 
 ## Saída
 Um número decimal que representa o saldo atualizado na conta bancária após o processamento das transações.
