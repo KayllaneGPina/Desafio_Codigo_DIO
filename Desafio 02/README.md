@@ -11,7 +11,7 @@ Seu programa deve exibir a lista de Ativos organizada em ordem alfabética. Cada
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 |Entrada|Saída|
 |-------|-----|
-|3      |Deposito|
-|Financiamento de Imovel    | Financiamento de Imovel|
-|Deposito |Reservas Bancarias|
-|Reservas Bancarias       |  |
+|3      ||
+|Financiamento de Imovel    |Deposito |
+|Deposito |Financiamento de Imovel|
+|Reservas Bancarias       |Reservas Bancarias  |
