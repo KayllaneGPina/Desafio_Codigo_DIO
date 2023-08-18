@@ -10,7 +10,7 @@
 ---
 
 ## Desafio 03:
-- [ ] [Desafios Python: Condicionalmente Rico](https://github.com/KayllaneGPina/Desafio_Codigo_DIO/tree/main/Desafio%2003)
+- [x] [Desafios Python: Condicionalmente Rico](https://github.com/KayllaneGPina/Desafio_Codigo_DIO/tree/main/Desafio%2003)
 
 ---
 
