@@ -10,14 +10,14 @@
 ---
 
 ## Desafio 03:
-[Desafios Python: Condicionalmente Rico]()
+[Desafios Python: Condicionalmente Rico](https://github.com/KayllaneGPina/Desafio_Codigo_DIO/tree/main/Desafio%2003)
 
 ---
 
 ## Desafio 04:
-[Desafios Python: Juros Compostos]()
+[Desafios Python: Juros Compostos](https://github.com/KayllaneGPina/Desafio_Codigo_DIO/tree/main/Desafio%2004)
 
 ---
 
 ## Desafio 05:
-[Desafios Python: O Grande Depósito]()
+[Desafios Python: O Grande Depósito](https://github.com/KayllaneGPina/Desafio_Codigo_DIO/tree/main/Desafio%2005)
