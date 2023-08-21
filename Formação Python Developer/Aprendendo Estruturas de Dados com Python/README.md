@@ -38,7 +38,7 @@ Para cada caso de teste imprima o número de garrafas que o cliente terá no seg
 
 ---
 
-## Desafio 2
+## Desafio 3
 Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
 
 ![Imagem](https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1049_b.png)
